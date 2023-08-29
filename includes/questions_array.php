@@ -1,5 +1,6 @@
 <?php
 
+
 // Hauptliste aller Fragen, Antworten und sonstigen Datenelemente
 $questions = array(
     array(

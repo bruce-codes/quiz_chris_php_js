@@ -17,6 +17,7 @@
 </head>
 <body>
     <?php
+    
         // Lade includes
         require "questions_array.php";
         require "./includes/data-collector.php";

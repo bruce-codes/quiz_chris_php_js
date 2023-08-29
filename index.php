@@ -10,6 +10,7 @@
 
 </head>
 <body>
+    
     <h1>Quiz</h1>
     <div>
         <h2>If you want to learn trivial facts about geography, biology, languages take a quiz for one of them!</h2>

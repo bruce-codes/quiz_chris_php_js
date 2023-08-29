@@ -10,6 +10,7 @@
    
 </head>
 <body>
+    
     <?php
         // Lade includes
         require "./includes/questions_array.php";
@@ -27,7 +28,7 @@
 
         // Zeige die daten der Frage mit prettyPrint()
         prettyPrint($questionData);
-    ?>
+    ?> 
 
 
 

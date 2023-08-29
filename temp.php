@@ -12,6 +12,7 @@
                     // Generiere Antwort-Radio-Buttons mit Beschriftung
                     <input type="radio" id="language" name="1" value="1">
                     <label for="language">1</label><br>
+                    
 
                     <input type="radio" id="language" name="2" value="2">
                     <label for="language">1</label><br>
