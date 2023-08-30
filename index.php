@@ -36,18 +36,18 @@
 
         <div class="container">
             <div>
-                <a href="/noContent" class="btn_geographie btn btn-primary">Enter Quiz 1-Geographie</a>
+                <a href="/noContent" class="btn_geographie btn btn-primary">Quiz 1 - Geographie</a>
             </div>
         
 
 
                     <br>
             <div>
-                <a href="noContent" class="btn_biology btn btn-primary">Enter Quiz 2-Biology</a>
+                <a href="noContent" class="btn_biology btn btn-primary">Quiz 2 - Biology</a>
             </div>
                     <br>
             <div>
-                <a href="questions.php" class="btn_languages btn btn-primary">Enter Quiz 3-Languages</a>
+                <a href="questions.php" class="btn_languages btn btn-primary">Quiz 3 - Languages</a>
             </div>
         </div>
 
