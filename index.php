@@ -16,10 +16,10 @@
         <h2>If you want to learn trivial facts about geography, biology, languages take a quiz for one of them!</h2>
     </div>
     <div>
-        <a href="/noQuestions.php" class="btn_geographie btn btn-primary">Enter Quiz 1-Geographie</a>
+        <a href="/noContent" class="btn_geographie btn btn-primary">Enter Quiz 1-Geographie</a>
     </div>
     <div>
-        <a href="noQuestions.php" class="btn_biology btn btn-primary">Enter Quiz 2-Biology</a>
+        <a href="noContent" class="btn_biology btn btn-primary">Enter Quiz 2-Biology</a>
     </div>
     <div>
         <a href="questions.php" class="btn_languages btn btn-primary">Enter Quiz 3-Languages</a>
