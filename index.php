@@ -23,25 +23,20 @@
     </style>
 
         
-        <div class="container">
-            <div class="centered-div">
-                <br><h1>READY FOR THE QUIZ?</h1><br>
-            </div>
+    <div class="container">
+        <div class="centered-div">
+            <br><h1>READY FOR THE QUIZ?</h1><br>
         </div>
+    </div>
         <div class="container">
-            <div class="centered-div">
                 <h2>If you want to learn trivial facts about geography, biology, languages take a quiz for one of them!</h2><br><br>
-            </div>
         </div>
 
         <div class="container">
             <div>
                 <a href="/noContent" class="btn_geographie btn btn-primary">Quiz 1 - Geographie</a>
             </div>
-        
-
-
-                    <br>
+            <br>
             <div>
                 <a href="noContent" class="btn_biology btn btn-primary">Quiz 2 - Biology</a>
             </div>
