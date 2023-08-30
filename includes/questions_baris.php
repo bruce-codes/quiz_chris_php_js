@@ -19,20 +19,20 @@
     <?php
     
         // Lade includes
-        require "questions_array.php";
-        require "./includes/data-collector.php";
+        // require "questions_array.php";
+        // require "./includes/data-collector.php";
 
         // Hole die Daten für die aktuelle Frage aus der Datenbank (in Variable $questionData ablegen).
-        $questionId = 5;
+        // $questionId = 5;
 
         // Berechne die Anzahl Fragen (in Variable $questionNum ablegen)
-        $questionNum = 15;
+        // $questionNum = 15;
 
-        $questions
+        // $questions
 
         // Zeige die Daten der Frage mit prettyPrint() an.
 
-    ?>
+    ?> 
 
     <!-- FORMULAR "Fragestellung" -->
     <div class="row" style="padding: 20px;">
